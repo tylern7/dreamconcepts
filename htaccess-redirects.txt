@@ -1,0 +1,14 @@
+# Merge into the existing .htaccess (do not overwrite). Sends old WordPress pages to the matching section.
+Redirect 301 /about/ /#about
+Redirect 301 /contact/ /#estimate
+Redirect 301 /contact-hamilton/ /#estimate
+Redirect 301 /estimate/ /#estimate
+Redirect 301 /gallery-hamilton/ /#work
+Redirect 301 /patios/ /#work
+Redirect 301 /retaining-walls/ /#work
+Redirect 301 /services-hamilton/ /#services
+Redirect 301 /landscaping-construction/ /#services
+Redirect 301 /landscaping-hamilton/ /#services
+Redirect 301 /renovations/ /#faq
+Redirect 301 /services-lawn-maintenance-snow-removal/ /#faq
+Redirect 301 /shade-structures/ /#work
